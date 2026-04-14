@@ -23,7 +23,7 @@ $use_auth = true;
 
 
 $auth_users = array(
-    'bonjeng' => '$2y$10$AWej8WB06MbMJFHFG4cZJOXyohQ/PouJ0ydZ.Swujb7E7Tnde50Yu', //
+    'odin' => '$2a$10$UuS/AsSLz9rOks1M9oEmL.XvZtqoXoOiOzCXwIvUmEM/wOPadrmla', //
     'user' => '$2y$10$YELYJRXrrFty9eM9Jgj2keJyhkFgVbjYJ2lRztIxQ0S8Ts0Sy8mve' //
 );
 
